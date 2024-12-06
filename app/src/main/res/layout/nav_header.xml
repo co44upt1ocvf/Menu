@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Уникальная шапка"
+        android:text="Шапка для лохов я ничего не поняла вообще"
         android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
-        android:textColor="@android:color/white" />
+        android:textColor="@android:color/black" />
 </LinearLayout>
